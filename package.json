@@ -1,0 +1,29 @@
+{
+  "name": "koa-ensure-login",
+  "version": "0.1.0",
+  "description": "koa middlewares to ensure login",
+  "main": "./lib",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha --harmony"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/RobinQu/koa-ensure-login.git"
+  },
+  "keywords": [
+    "koa",
+    "ensure",
+    "login",
+    "middleware"
+  ],
+  "author": "RobinQu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RobinQu/koa-ensure-login/issues"
+  },
+  "homepage": "https://github.com/RobinQu/koa-ensure-login",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.20.1"
+  }
+}
